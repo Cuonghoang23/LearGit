@@ -7,7 +7,8 @@ public class TutorialController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {   
-        transform.position -= new Vector3(500,500,500);
+       transform.position -= new Vector3(500,500,500);
+	   transform.position += new Vector3(1000,1000,1000);
     }
 
     
