@@ -1,0 +1,13 @@
+.vs/
+Library/
+Logs/
+obj/
+UserSettings/
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
+DOTween.Modules.csproj
+DOTweenPro.EditorScripts.csproj
+DOTweenPro.Scripts.csproj
+Tile Match 3D.sln
